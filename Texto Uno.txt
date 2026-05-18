@@ -1,3 +1,5 @@
 Iniciando mis aprendizajes de Git.
 
 Iniciado repositorio en la carpeta Ejemplo.
+
+Agregado segundo archivo de texto.
