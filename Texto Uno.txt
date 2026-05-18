@@ -1,0 +1,3 @@
+Iniciando mis aprendizajes de Git.
+
+Iniciado repositorio en la carpeta Ejemplo.
