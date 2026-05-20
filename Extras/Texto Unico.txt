@@ -1,0 +1,5 @@
+Este archivo es único del Branch "Alternative".
+
+Guardando su primer commit.
+
+Reorganizando esta branch.
