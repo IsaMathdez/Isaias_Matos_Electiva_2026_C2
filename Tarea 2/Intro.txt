@@ -1,0 +1,1 @@
+He aquí un prediseño en FreeCad del case del PLC asignado, hize mimayor esfuerzo de asimilar el diseño al plano dado, ya que este carecía información especialmente sobre la tapa inferior del PLC.
