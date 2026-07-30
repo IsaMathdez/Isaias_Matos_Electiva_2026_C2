@@ -1,0 +1,7 @@
+En esta carpeta estarán las asignaciones correspondientes a la tarea 1 de Electiva.
+
+Añadida esta linea de texto desde github para probar un pull.
+
+Nueva linea de texto para este archivo para el video que estoy haciendo.
+
+Agregado el link del video y el ensayo.
