@@ -1,0 +1,6 @@
+Aqui se realizaran las tareas asignadas:
+Actualicen las dimensiones de todas las PCB
+Crear las etiquetas
+Crear los cortes en el plástico y la etiqueta
+Crear un archivo de código G para cortar el case
+Investiguen las normas o reglamentos para los equipos que se utilizan en un ambiente educativo.
